@@ -6,7 +6,7 @@
 * [Sketch](https://www.sketch.com) [¹](https://www.sketch.com)
 * [Principle](https://principleformac.com) [¹](https://principleformac.com)
 
-### Font
+### Fonts
 
 * [SF Pro](https://developer.apple.com/fonts/) [¹](https://developer.apple.com/fonts/)
 * [SF Compact](https://developer.apple.com/fonts/) [¹](https://developer.apple.com/fonts/)
