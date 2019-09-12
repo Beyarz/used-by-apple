@@ -2,25 +2,25 @@
 
 ### Design & prototype
 
-* [Sketch](https://www.sketch.com) [1](https://www.sketch.com)
-* [Principle](https://principleformac.com) [1](https://principleformac.com)
+* [Sketch](https://www.sketch.com) [¹](https://www.sketch.com)
+* [Principle](https://principleformac.com) [¹](https://principleformac.com)
 
 ### Version control
 
-* [Git-tower](https://www.git-tower.com) [1](https://www.git-tower.com)
+* [Git-tower](https://www.git-tower.com) [¹](https://www.git-tower.com)
 
 ### Api
 
-* [Paw](https://paw.cloud) [1](https://paw.cloud)
+* [Paw](https://paw.cloud) [¹](https://paw.cloud)
 
 ### Network
 
-* [Cerberusftp](https://www.cerberusftp.com) [1](https://www.cerberusftp.com)
+* [Cerberusftp](https://www.cerberusftp.com) [¹](https://www.cerberusftp.com)
 
 ### Office supply
 
-* [Sustainablesupply](https://www.sustainablesupply.com/) [1](https://www.sustainablesupply.com/partitions-what-you-can-expect)
+* [Sustainablesupply](https://www.sustainablesupply.com/) [¹](https://www.sustainablesupply.com/partitions-what-you-can-expect)
 
 ### Infrastructure as a service
 
-* [Tilted](https://www.tilted.com/) [1](https://www.tilted.com/clients/)
+* [Tilted](https://www.tilted.com/) [¹](https://www.tilted.com/clients/)
