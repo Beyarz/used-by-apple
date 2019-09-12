@@ -1,5 +1,5 @@
 # Used by 
-###### Note the first link is to the service itself while the second is where they referred Apple as user
+###### Note the first link is to the service while the second is where they referred Apple as customer
 
 ### Design & prototype
 
