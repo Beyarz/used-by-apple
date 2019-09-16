@@ -1,5 +1,5 @@
 # Used by 
-###### Note the first link is to the service/product while the second is where Apple is referred as user
+###### Note, the first link is to the service/product while the second is where Apple is referred as user
 
 ### Design & prototype
 
