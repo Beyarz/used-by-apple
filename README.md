@@ -30,6 +30,10 @@
 
 * [Circom](https://circom.se/) [¹](https://circom.se/it-losningar/)
 
+### Individual coaching 
+
+* [Michael Westland-Rose](http://www.presentation-partners.co.uk)
+
 ### Improve marketing performance
 
 * [Crimsonmarketing](https://crimsonmarketing.com)
