@@ -26,6 +26,10 @@
 
 * [Cerberusftp](https://www.cerberusftp.com)
 
+### IT-solutions (support)
+
+* [Circom](https://circom.se/) [¹](https://circom.se/it-losningar/)
+
 ### Accelerate sustainability
 
 * [Wbcsd](https://www.wbcsd.org)
