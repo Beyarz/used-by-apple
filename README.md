@@ -18,6 +18,10 @@
 
 * [Git-tower](https://www.git-tower.com)
 
+### Deep learning
+
+* [Lambdalabs](https://lambdalabs.com)
+
 ### Api
 
 * [Paw](https://paw.cloud)
