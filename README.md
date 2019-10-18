@@ -14,6 +14,10 @@
 * [SF Mono](https://developer.apple.com/fonts/)
 * [New York](https://developer.apple.com/fonts/)
 
+### Languages
+
+* [Swift](https://swift.org)
+
 ### Version control
 
 * [Git-tower](https://www.git-tower.com)
