@@ -30,6 +30,10 @@
 
 * [Paw](https://paw.cloud)
 
+#### Api testing
+
+* [SoapUi](https://www.soapui.org)
+
 ### Network
 
 * [Cerberusftp](https://www.cerberusftp.com)
