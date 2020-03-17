@@ -7,6 +7,10 @@
 * [Principle](https://principleformac.com)
 * [StarUML](http://staruml.io)
 
+### Notes
+
+* [Liner](https://getliner.com/upgrade/)
+
 ### Fonts
 
 * [SF Pro](https://developer.apple.com/fonts/)
