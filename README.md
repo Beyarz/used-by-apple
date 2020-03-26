@@ -1,9 +1,8 @@
 # Used by 
-###### Note, the first link is to the service/product while the second is where Apple is referred as user
 
 ### Design, modeling & prototype
 
-* [Sketch](https://www.sketch.com)
+* [ ̶S̶k̶e̶t̶c̶h̶](https://www.sketch.com) [1](https://web.archive.org/web/20190326231002/https://www.sketch.com/)
 * [Principle](https://principleformac.com)
 * [StarUML](http://staruml.io)
 
@@ -11,14 +10,11 @@
 
 * [Liner](https://getliner.com/upgrade/)
 
-### Fonts
+### Font
 
-* [SF Pro](https://developer.apple.com/fonts/)
-* [SF Compact](https://developer.apple.com/fonts/)
-* [SF Mono](https://developer.apple.com/fonts/)
-* [New York](https://developer.apple.com/fonts/)
+* [SF Pro](https://www.apple.com)
 
-### Languages
+### Language
 
 * [Swift](https://swift.org)
 
@@ -56,7 +52,7 @@
 
 ### Accelerate sustainability
 
-* [Wbcsd](https://www.wbcsd.org)
+* [Wbcsd](https://www.wbcsd.org) [¹](https://www.wbcsd.org/Overview/Our-members/Members)
 
 ### Infrastructure as a service
 
