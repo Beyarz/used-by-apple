@@ -42,7 +42,7 @@
 
 * [Cerberusftp](https://www.cerberusftp.com)
 
-### IT-solutions (support)
+### IT-support
 
 * [Circom](https://circom.se/) [¹](https://circom.se/it-losningar/)
 
@@ -58,10 +58,14 @@
 
 * [Wbcsd](https://www.wbcsd.org)
 
-### Office supply
-
-* [Sustainablesupply](https://www.sustainablesupply.com/) [¹](https://www.sustainablesupply.com/partitions-what-you-can-expect)
-
 ### Infrastructure as a service
 
 * [Tilted](https://www.tilted.com/) [¹](https://www.tilted.com/clients/)
+
+### Storage solution
+
+* [45drives](http://www.45drives.com)
+
+### Office supply
+
+* [Sustainablesupply](https://www.sustainablesupply.com/) [¹](https://www.sustainablesupply.com/partitions-what-you-can-expect)
