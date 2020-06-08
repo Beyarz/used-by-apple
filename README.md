@@ -9,6 +9,7 @@
 ## Web framework
 
 * [Vue.js](https://vuejs.org) [1](https://developer.apple.com/tutorials/swiftui) [2](https://developer.apple.com/tutorials/js/chunk-vendors.7016400c.js)
+* [Vanilla JS](http://vanilla-js.com)
 
 ### Notes
 
