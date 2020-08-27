@@ -12,6 +12,10 @@
 * [Stencil](https://stenciljs.com)
 * [Vanilla JS](http://vanilla-js.com)
 
+## Cloud technology
+
+* [Traefik](https://containo.us/traefik/)
+
 ### Notes
 
 * [Liner](https://getliner.com/upgrade/)
