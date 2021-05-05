@@ -2,7 +2,7 @@
 
 ### Design, modeling & prototype
 
-* [ ̶S̶k̶e̶t̶c̶h̶](https://www.sketch.com) [1](https://web.archive.org/web/20190326231002/https://www.sketch.com/)
+* ~~[Sketch](https://www.sketch.com) [1](https://web.archive.org/web/20190326231002/https://www.sketch.com/)~~
 * [Principle](https://principleformac.com)
 * [StarUML](http://staruml.io)
 
@@ -18,7 +18,7 @@
 
 ### Notes
 
-* [Liner](https://getliner.com/upgrade/)
+* ~~[Liner](https://getliner.com/) [1](https://archive.is/WWMAN) [2](https://getliner.com/landing/image/company.png)~~
 
 ### Font
 
@@ -27,6 +27,7 @@
 ### Language
 
 * [Swift](https://swift.org)
+* [Objective-c]
 
 ### Version control
 
