@@ -2,13 +2,13 @@
 
 ### Design, modeling & prototype
 
-* ~~[Sketch](https://www.sketch.com) [1](https://web.archive.org/web/20190326231002/https://www.sketch.com/)~~
+* ~~[Sketch](https://www.sketch.com) [¹](https://web.archive.org/web/20190326231002/https://www.sketch.com/)~~
 * [Principle](https://principleformac.com)
 * [StarUML](http://staruml.io)
 
 ### Web framework
 
-* [Vue.js](https://vuejs.org) [1](https://developer.apple.com/tutorials/swiftui) [2](https://developer.apple.com/tutorials/js/chunk-vendors.7016400c.js)
+* [Vue.js](https://vuejs.org) [¹](https://developer.apple.com/tutorials/swiftui) [²](https://developer.apple.com/tutorials/js/chunk-vendors.7016400c.js)
 * [Stencil](https://stenciljs.com)
 * [Vanilla JS](http://vanilla-js.com)
 
@@ -18,7 +18,7 @@
 
 ### Notes
 
-* ~~[Liner](https://getliner.com/) [1](https://archive.is/WWMAN) [2](https://getliner.com/landing/image/company.png)~~
+* ~~[Liner](https://getliner.com/) [¹](https://archive.is/WWMAN) [²](https://getliner.com/landing/image/company.png)~~
 
 ### Font
 
