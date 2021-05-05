@@ -27,7 +27,7 @@
 ### Language
 
 * [Swift](https://swift.org)
-* [Objective-c]
+* Objective-c
 
 ### Version control
 
